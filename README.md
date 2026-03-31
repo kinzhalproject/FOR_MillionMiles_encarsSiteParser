@@ -10,11 +10,17 @@
 
 <br/>
 
+## 🔥 [>>> LIVE DEMO — ОТКРЫТЬ ПРОЕКТ <<<](https://for-million-miles-encars-site-parse-nine.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-ОТКРЫТЬ_САЙТ-c9a84c?style=for-the-badge&labelColor=0a0a0a&logoColor=c9a84c)](https://for-million-miles-encars-site-parse-nine.vercel.app/)
+
+<br/>
+
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Vercel](https://img.shields.io/badge/Deploy-Vercel-000?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-000?style=for-the-badge&logo=vercel)](https://for-million-miles-encars-site-parse-nine.vercel.app/)
 
 <br/>
 
@@ -24,7 +30,29 @@
 
 <br/>
 
-[🚀 **Live Demo**](#) · [📋 Задание](#-тестовое-задание) · [⚡ Быстрый старт](#-быстрый-старт) · [🏗️ Архитектура](#️-архитектура)
+[🚀 **Live Demo**](https://for-million-miles-encars-site-parse-nine.vercel.app/) · [📋 Задание](#-тестовое-задание) · [⚡ Быстрый старт](#-быстрый-старт) · [🏗️ Архитектура](#️-архитектура)
+
+</div>
+
+---
+
+## 🎬 Видео-превью
+
+<div align="center">
+
+<!-- Luxury car GIFs -->
+<img src="https://media.giphy.com/media/l3q2Z6S6n38zjPswo/giphy.gif" width="48%" alt="Luxury car showroom" />
+<img src="https://media.giphy.com/media/xUPGcMzfkOPBvqFGiQ/giphy.gif" width="48%" alt="Premium cars" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/5xtDarLUQd5DqGEYGnS/giphy.gif" width="32%" alt="Car delivery" />
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif" width="32%" alt="Speedometer" />
+<img src="https://media.giphy.com/media/l378oAJhDkuVJKpvG/giphy.gif" width="32%" alt="Car driving" />
+
+<br/><br/>
+
+> ### 🏁 *«To any destination worldwide, in the shortest possible time!»*
 
 </div>
 
@@ -599,7 +627,15 @@ MIT © 2026
 
 ### 🏎️ Спасибо за внимание!
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&duration=4000&pause=2000&color=C9A84C&center=true&vCenter=true&width=500&lines=Ready+for+production+%F0%9F%9A%80;Deployed+on+Vercel+%E2%9A%A1;Auto-updating+every+6+hours+%F0%9F%94%84;1000%2B+cars+from+Encar.com+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/3o85xAYQLOhSrmINHO/giphy.gif" width="300" alt="Luxury car" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&duration=4000&pause=2000&color=C9A84C&center=true&vCenter=true&width=500&lines=Ready+for+production+%F0%9F%9A%80;Deployed+on+Vercel+%E2%9A%A1;Auto-updating+daily+%F0%9F%94%84;1000%2B+cars+from+Encar.com+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing SVG" />
+
+<br/>
+
+### [🔥 ОТКРЫТЬ LIVE DEMO 🔥](https://for-million-miles-encars-site-parse-nine.vercel.app/)
 
 <br/>
 
