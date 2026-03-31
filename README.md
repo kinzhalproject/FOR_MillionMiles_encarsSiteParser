@@ -1,8 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:c9a84c&height=200&section=header&text=🏎️%20MILLION%20MILES&fontSize=42&fontColor=c9a84c&fontAlignY=35&desc=Premium%20Car%20Search%20%26%20Delivery%20Platform&descSize=16&descColor=888888&descAlignY=55&animation=fadeIn" width="100%" />
+
 # 🏎️ MILLION MILES
 
 ### Premium Car Search & Delivery Platform
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Premium+service+for+the+search+and+delivery;of+any+vehicles+to+any+destination+worldwide;14%2C523+Cars+Sold+%7C+19+Experts+%7C+from+2+Weeks" alt="Typing SVG" />
+
+<br/>
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
@@ -12,7 +18,7 @@
 
 <br/>
 
-**Live-парсинг корейского авторынка [Encar.com](https://www.encar.com) с автообновлением каждые 6 часов.**
+**Live-парсинг корейского авторынка [Encar.com](https://www.encar.com) с автообновлением раз в сутки.**
 <br/>
 Современный каталог автомобилей в стиле premium автосалона — тёмная тема, золотые акценты, адаптивный дизайн.
 
@@ -28,83 +34,234 @@
 
 <div align="center">
 
-### 🖥️ Desktop
+<!-- Hero Section Preview -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=4" />
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  MILLION MILES      Cars  Services  Expert  About   🇬🇧 USD │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│          PREMIUM SERVICE FOR THE SEARCH                      │
-│          AND DELIVERY OF ANY VEHICLES                        │
-│                                                              │
-│            [ CONTACT US ]                                    │
-│                                                              │
-│     14,523 Cars sold    19 Experts    from 2 Weeks delivery  │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│  🔍 Find your dream car                                     │
-│  [Search...] [Sort ▾] [Year From ▾] [Year To ▾]             │
-├──────────────────────────────────────────────────────────────┤
-│  Found 1,000 vehicles                                       │
-│                                                              │
-│  ┌─────────┐ ┌─────────┐ ┌─────────┐                        │
-│  │  📷     │ │  📷     │ │  📷     │                        │
-│  │ Hyundai │ │ Kia     │ │ Genesis │                        │
-│  │ $18,500 │ │ $22,000 │ │ $35,000 │                        │
-│  │[DETAILS]│ │[DETAILS]│ │[DETAILS]│                        │
-│  └─────────┘ └─────────┘ └─────────┘                        │
-│                                                              │
-│  ← 1  2  3  4  5  ...  50 →                                 │
-├──────────────────────────────────────────────────────────────┤
-│              OUR SERVICES                                    │
-│  ┌────────┐┌────────┐┌────────┐┌────────┐                   │
-│  │Import  ││Logistic││Find Car││Sell Car│                   │
-│  │& Export││Services││        ││        │                   │
-│  └────────┘└────────┘└────────┘└────────┘                   │
-│  ┌────────┐┌────────┐┌────────┐┌────────┐                   │
-│  │Insurnce││ Lease  ││Register││Detailng│                   │
-│  └────────┘└────────┘└────────┘└────────┘                   │
-├──────────────────────────────────────────────────────────────┤
-│  MILLION MILES  📷📘🎵▶  © 2026 MILLION MILES               │
-└──────────────────────────────────────────────────────────────┘
-```
+### 🖥️ Hero — Fullscreen с анимированными счётчиками
 
-### 📱 Mobile
+<table>
+<tr>
+<td>
 
-```
-┌────────────────────┐
-│ MILLION MILES   ☰  │
-├────────────────────┤
-│                    │
-│  PREMIUM SERVICE   │
-│  FOR THE SEARCH    │
-│  AND DELIVERY OF   │
-│  ANY VEHICLES      │
-│                    │
-│  [ CONTACT US ]    │
-│                    │
-│  14,523  19  2wks  │
-├────────────────────┤
-│ 🔍 Search...       │
-│ [Sort ▾] [Year ▾]  │
-├────────────────────┤
-│ ┌────────────────┐ │
-│ │     📷         │ │
-│ │ Hyundai Tucson │ │
-│ │ $18,500        │ │
-│ │ [VIEW DETAILS] │ │
-│ └────────────────┘ │
-│ ┌────────────────┐ │
-│ │     📷         │ │
-│ │ Kia Sportage   │ │
-│ │ $22,000        │ │
-│ │ [VIEW DETAILS] │ │
-│ └────────────────┘ │
-└────────────────────┘
-```
+<img src="https://img.shields.io/badge/🏎️_PREMIUM_SERVICE_FOR_THE_SEARCH-0a0a0a?style=for-the-badge&labelColor=0a0a0a" />
+<br/>
+<img src="https://img.shields.io/badge/AND_DELIVERY_OF_ANY_VEHICLES-c9a84c?style=for-the-badge&labelColor=c9a84c&logoColor=000" />
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/14,523-Cars_Sold-c9a84c?style=flat-square&labelColor=141414" /></td>
+<td align="center"><img src="https://img.shields.io/badge/19-Experts-c9a84c?style=flat-square&labelColor=141414" /></td>
+<td align="center"><img src="https://img.shields.io/badge/from_2-Weeks_Delivery-c9a84c?style=flat-square&labelColor=141414" /></td>
+</tr>
+</table>
+
+<br/>
+
+### 🚗 Каталог — Карточки авто с hover-эффектами
+
+<!-- Car Cards Grid Preview -->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://ci.encar.com/carpicture/04647963_001.jpg" width="250" alt="Hyundai" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Hyundai_Tucson-2023-c9a84c?style=flat-square&labelColor=141414" />
+<br/>
+<img src="https://img.shields.io/badge/💰_$18,500-0a0a0a?style=flat-square&labelColor=c9a84c&logoColor=000" />
+<br/>
+<img src="https://img.shields.io/badge/⛽_Gasoline-141414?style=flat-square" /> <img src="https://img.shields.io/badge/🔄_Automatic-141414?style=flat-square" />
+</td>
+<td align="center" width="33%">
+<img src="https://ci.encar.com/carpicture/04648888_001.jpg" width="250" alt="Kia" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Kia_Sportage-2024-c9a84c?style=flat-square&labelColor=141414" />
+<br/>
+<img src="https://img.shields.io/badge/💰_$22,000-0a0a0a?style=flat-square&labelColor=c9a84c&logoColor=000" />
+<br/>
+<img src="https://img.shields.io/badge/⛽_Gasoline-141414?style=flat-square" /> <img src="https://img.shields.io/badge/🔄_Automatic-141414?style=flat-square" />
+</td>
+<td align="center" width="33%">
+<img src="https://ci.encar.com/carpicture/04649123_001.jpg" width="250" alt="Genesis" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Genesis_G80-2023-c9a84c?style=flat-square&labelColor=141414" />
+<br/>
+<img src="https://img.shields.io/badge/💰_$35,000-0a0a0a?style=flat-square&labelColor=c9a84c&logoColor=000" />
+<br/>
+<img src="https://img.shields.io/badge/⛽_Gasoline-141414?style=flat-square" /> <img src="https://img.shields.io/badge/🔄_Automatic-141414?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎯 Services — 8 карточек с hover-анимацией
+
+<table>
+<tr>
+<td align="center">🌍<br/><sub><b>Import &<br/>Export</b></sub></td>
+<td align="center">🚚<br/><sub><b>Logistics<br/>Services</b></sub></td>
+<td align="center">🔍<br/><sub><b>Find<br/>a Car</b></sub></td>
+<td align="center">💰<br/><sub><b>Sell<br/>a Car</b></sub></td>
+<td align="center">🛡️<br/><sub><b>Get<br/>Insurance</b></sub></td>
+<td align="center">📋<br/><sub><b>Buy<br/>on Lease</b></sub></td>
+<td align="center">📝<br/><sub><b>Registration</b></sub></td>
+<td align="center">🔧<br/><sub><b>Service &<br/>Detailing</b></sub></td>
+</tr>
+</table>
+
+<br/>
+
+### 📱 Adaptive — Desktop → Tablet → Mobile
+
+<table>
+<tr>
+<td align="center"><b>Desktop (3 cols)</b></td>
+<td align="center"><b>Tablet (2 cols)</b></td>
+<td align="center"><b>Mobile (1 col + burger)</b></td>
+</tr>
+<tr>
+<td align="center">
+<code>┌───┐ ┌───┐ ┌───┐</code><br/>
+<code>│ 🚗│ │ 🚗│ │ 🚗│</code><br/>
+<code>└───┘ └───┘ └───┘</code><br/>
+<code>┌───┐ ┌───┐ ┌───┐</code><br/>
+<code>│ 🚗│ │ 🚗│ │ 🚗│</code><br/>
+<code>└───┘ └───┘ └───┘</code>
+</td>
+<td align="center">
+<code>┌────┐ ┌────┐</code><br/>
+<code>│ 🚗 │ │ 🚗 │</code><br/>
+<code>└────┘ └────┘</code><br/>
+<code>┌────┐ ┌────┐</code><br/>
+<code>│ 🚗 │ │ 🚗 │</code><br/>
+<code>└────┘ └────┘</code>
+</td>
+<td align="center">
+<code>☰ MILLION MILES</code><br/>
+<code>┌──────────┐</code><br/>
+<code>│    🚗    │</code><br/>
+<code>│ Hyundai  │</code><br/>
+<code>│ $18,500  │</code><br/>
+<code>└──────────┘</code>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 🎬 Интерактивные фичи
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ✨ Animated Counters
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2000&pause=500&color=C9A84C&center=true&vCenter=true&width=300&height=50&lines=14%2C523;Cars+Sold" alt="Counter" />
+
+Числа нарастают от 0 при загрузке страницы
+
+</td>
+<td align="center" width="50%">
+
+### 🖱️ Card Hover Effects
+```
+     Normal          Hover
+  ┌──────────┐   ╔══════════╗
+  │   📷     │   ║   📷     ║ ← scale(1.02)
+  │ Hyundai  │   ║ Hyundai  ║ ← золотая рамка
+  │ $18,500  │   ║ $18,500  ║
+  └──────────┘   ╚══════════╝
+```
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🎯 Sticky Header + Blur
+```
+Scroll 0px:  transparent bg
+       ↓
+Scroll 10px: rgba(0,0,0,0.95)
+             + backdrop-blur
+```
+
+</td>
+<td align="center">
+
+### 📱 Mobile Fullscreen Menu
+```
+ ☰ → Tap
+ ┌────────────────┐
+ │  CARS           │
+ │  ─────────────  │
+ │  ★ SERVICES     │
+ │    Find a Car   │
+ │    Sell a Car   │
+ │  ─────────────  │
+ │  ASK AN EXPERT  │
+ │  ★ ABOUT US     │
+ │  ─────────────  │
+ │  🇬🇧 EN 🇷🇺 RU  │
+ │  USD EUR RUB    │
+ └────────────────┘
+```
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🥇 Gold Button States
+```css
+/* Normal */
+bg: #c9a84c → color: #000
+
+/* Hover → инверсия */
+bg: transparent
+border: #c9a84c
+color: #c9a84c
+transition: 0.3s
+```
+
+</td>
+<td align="center">
+
+### 🔍 Live Search + Filters
+```
+[🔍 "Hyundai"   ] [Price ↑]
+[Year From ▾] [Year To ▾]
+
+→ Found 156 vehicles
+→ Instant filtering
+→ Debounced 350ms
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎥 Анимации в деталях
+
+| Анимация | Элемент | Описание |
+|:---|:---|:---|
+| 📊 `CountUp` | Hero-счётчики | Числа нарастают от 0 → 14,523 с easing |
+| 🃏 `scale(1.02)` | Карточки авто | Увеличение + золотая рамка при наведении |
+| 🌫️ `backdrop-blur` | Header | Прозрачный → размытый чёрный при скролле |
+| 📱 `slide-in` | Mobile menu | Fullscreen overlay с fade |
+| ⬇️ `fadeInUp` | Контент | Появление снизу вверх при загрузке |
+| ✨ `shimmer` | Skeleton | Анимация загрузки карточек |
+| 📏 `scale-x` | Services | Золотая линия снизу при hover |
 
 ---
 
@@ -121,7 +278,7 @@
 | Парсинг Encar.com | ✅ | API-парсинг + fallback HTML (BeautifulSoup/fetch) |
 | Данные: марка, модель, год, пробег, цена, фото | ✅ | + трансмиссия, топливо, badge, URL |
 | Хранение данных | ✅ | JSON + in-memory cache |
-| Обновление 1 раз в сутки | ✅ | Vercel Cron каждые 6 часов |
+| Обновление 1 раз в сутки | ✅ | Vercel Cron раз в сутки (00:00 UTC) |
 | Landing page с карточками | ✅ | Hero + каталог + услуги + footer |
 | Адаптивность | ✅ | Desktop / Tablet / Mobile |
 | Быстрый отклик | ✅ | SSR + in-memory cache + lazy load |
@@ -148,8 +305,8 @@
 
 ```bash
 # 1. Клонировать
-git clone https://github.com/YOUR_USERNAME/encar-catalog.git
-cd encar-catalog/frontend
+git clone https://github.com/kinzhalproject/FOR_MillionMiles_encarsSiteParser.git
+cd FOR_MillionMiles_encarsSiteParser/frontend
 
 # 2. Установить зависимости
 npm install
@@ -186,7 +343,7 @@ npm start
                     │  │/api/cars│    │/api/scrape│   │
                     │  │ Filter  │    │  Парсинг  │   │
                     │  │ Sort    │    │ Encar.com │   │
-                    │  │ Search  │    │ каждые 6ч │   │
+                    │  │ Search  │    │ раз в сутки│   │
                     │  └────┬────┘    └─────┬─────┘   │
                     │       │               │         │
                     │       ▼               ▼         │
@@ -205,7 +362,7 @@ npm start
 
 ### Как работает парсинг:
 
-1. **`/api/scrape`** — вызывается Vercel Cron каждые 6 часов
+1. **`/api/scrape`** — вызывается Vercel Cron раз в сутки (00:00 UTC)
 2. Делает запросы к `api.encar.com/search/car/list/general` (5 страниц по 200)
 3. Переводит корейские данные → English (марки, топливо, КПП)
 4. Конвертирует цены: 만원 (10,000 KRW) → USD
@@ -351,7 +508,7 @@ frontend/
 
 ### One-click deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/encar-catalog&root-directory=frontend)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kinzhalproject/FOR_MillionMiles_encarsSiteParser&root-directory=frontend)
 
 ### Ручной деплой
 
@@ -378,9 +535,9 @@ vercel
 
 Автоматический парсинг настроен в `vercel.json`:
 ```json
-{ "crons": [{ "path": "/api/scrape", "schedule": "0 */6 * * *" }] }
+{ "crons": [{ "path": "/api/scrape", "schedule": "0 0 * * *" }] }
 ```
-> ⏰ Каждые 6 часов данные обновляются автоматически.
+> ⏰ Раз в сутки (00:00 UTC) данные обновляются автоматически.
 
 ---
 
@@ -440,8 +597,16 @@ MIT © 2026
 
 <div align="center">
 
-**Сделано с ❤️ и ☕**
+### 🏎️ Спасибо за внимание!
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&duration=4000&pause=2000&color=C9A84C&center=true&vCenter=true&width=500&lines=Ready+for+production+%F0%9F%9A%80;Deployed+on+Vercel+%E2%9A%A1;Auto-updating+every+6+hours+%F0%9F%94%84;1000%2B+cars+from+Encar.com+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing SVG" />
+
+<br/>
 
 *Тестовое задание • Web-разработчик*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:1a1a1a,100:0a0a0a&height=120&section=footer" width="100%" />
 
 </div>
