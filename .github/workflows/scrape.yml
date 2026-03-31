@@ -1,0 +1,30 @@
+name: Daily Scrape & Deploy
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # Every day at 03:00 UTC
+  workflow_dispatch:       # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install httpx beautifulsoup4 pydantic-settings
+
+      - name: Run scraper export
+        run: python export_cars.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data/cars.json
+          git diff --staged --quiet || git commit -m "chore: update car data $(date -u +%Y-%m-%d)"
+          git push
